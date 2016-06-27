@@ -25,11 +25,11 @@ function processor(input) {
     var output = '';
     _.forEach(currentObj.features, function(node, i) {
         if(level == 'gem'){
-            output =  'geoR:' + node.properties.GM_CODE + ' a geoV:AdministrativeArea ; a geoV:Municipality ; geoV:level "2"^^xsd:integer ; dcterms:title "'+node.properties.GM_NAAM+'" ; ';
+            output =  'geoR:' + node.properties.GM_CODE + ' a geoV:AdministrativeArea ; a geoV:Municipality ; geoV:level "2"^^xsd:integer ; dcterms:title """'+node.properties.GM_NAAM+'""" ; ';
         }else if(level == 'wijk'){
-            output =  'geoR:' + node.properties.WK_CODE + ' a geoV:AdministrativeArea ; a geoV:District ; geoV:level "1"^^xsd:integer ; dcterms:title "'+node.properties.WK_NAAM+'" ; ';
+            output =  'geoR:' + node.properties.WK_CODE + ' a geoV:AdministrativeArea ; a geoV:District ; geoV:level "1"^^xsd:integer ; dcterms:title """'+node.properties.WK_NAAM+'""" ; ';
         }else if(level == 'buurt'){
-            output =  'geoR:' + node.properties.BU_CODE + ' a geoV:AdministrativeArea ; a geoV:Neighbourhood ; geoV:level "3"^^xsd:integer ; dcterms:title "'+node.properties.BU_NAAM+'" ; ';
+            output =  'geoR:' + node.properties.BU_CODE + ' a geoV:AdministrativeArea ; a geoV:Neighbourhood ; geoV:level "3"^^xsd:integer ; dcterms:title """'+node.properties.BU_NAAM+'""" ; ';
        }
         output =  output + 'geoV:ISO "NLD" ; ';
         for(var prop in node.properties){
