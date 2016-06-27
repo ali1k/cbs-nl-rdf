@@ -1,5 +1,5 @@
 # cbs-nl-rdf
-Converting CBS administrative boundaries for the Netherlands to RDF
+Converting CBS (https://www.cbs.nl/en-gb) administrative boundaries for the Netherlands to RDF
 
 usage: `geojson-rdf [level] [file_or_uri_to_convert]``
 
