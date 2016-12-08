@@ -41,9 +41,13 @@
       "meaning": "Sterfte totaal"
     },
     {
-      "variable": "P_STERFT BEV_DICHTH",
-      "meaning": "Sterfte relatief Bevolkingsdichtheid inwoners per km2"
+      "variable": "P_STERFT",
+      "meaning": "Sterfte relatief"
     },
+    {
+      "variable": "BEV_DICHTH",
+      "meaning": "Bevolkingsdichtheid inwoners per km2"
+    },    
     {
       "variable": "AANTAL_HH",
       "meaning": "Aantal huishoudens"
