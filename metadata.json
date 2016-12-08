@@ -1,675 +1,677 @@
-[
- {
-   "Variable": "P_25_44_JR",
-   "Meaning": "Percentage personen 25 tot 45 jaar",
- },
- {
-   "Variable": "P_45_64_JR",
-   "Meaning": "Percentage personen 45 tot 65 jaar",
- },
- {
-   "Variable": "P_65_EO_JR",
-   "Meaning": "Percentage personen 65 jaar en ouder",
- },
- {
-   "Variable": "P_ONGEHUWD",
-   "Meaning": "Percentage ongehuwd",
- },
- {
-   "Variable": "P_GEHUWD",
-   "Meaning": "Percentage gehuwd",
- },
- {
-   "Variable": "P_GESCHEID",
-   "Meaning": "Percentage gescheid",
- },
- {
-   "Variable": "P_VERWEDUW",
-   "Meaning": "Percentage verweduwd",
- },
- {
-   "Variable": "GEBOO_TOT",
-   "Meaning": "Geboorte totaal",
- },
- {
-   "Variable": "P_GEBOO",
-   "Meaning": "Geboorte relatief",
- },
- {
-   "Variable": "STERFT_TOT",
-   "Meaning": "Sterfte totaal",
- },
- {
-   "Variable": "P_STERFT BEV_DICHTH",
-   "Meaning": "Sterfte relatief Bevolkingsdichtheid inwoners per km2",
- },
- {
-   "Variable": "AANTAL_HH",
-   "Meaning": "Aantal huishoudens",
- },
- {
-   "Variable": "P_EENP_HH",
-   "Meaning": "Percentage   eenpersoonshuishoudens",
- },
- {
-   "Variable": "P_HH_Z_K",
-   "Meaning": "Percentage huishoudens zonder kinderen",
- },
- {
-   "Variable": "P_HH_M_K",
-   "Meaning": "Percentage huishoudens met kinderen",
- },
- {
-   "Variable": "GEM_HH_GR",
-   "Meaning": "Gemiddelde   huishoudensgrootte",
- },
- {
-   "Variable": "P_WEST_AL",
-   "Meaning": "Percentage westerse allochtonen",
- },
- {
-   "Variable": "P_N_W_AL",
-   "Meaning": "Percentage niet westerse allochtonen",
- },
- {
-   "Variable": "P_MAROKKO",
-   "Meaning": "Percentage uit Marokko",
- },
- {
-   "Variable": "P_ANT_ARU",
-   "Meaning": "Percentage uit Nederlandse Antillen en Aruba",
- },
- {
-   "Variable": "P_SURINAM",
-   "Meaning": "Percentage uit Suriname",
- },
- {
-   "Variable": "P_TURKIJE",
-   "Meaning": "Percentage uit Turkije",
- },
- {
-   "Variable": "P_OVER_NW",
-   "Meaning": "Percentage overige niet westerse allochtonen",
- },
- {
-   "Variable": "A_BEDV",
-   "Meaning": "Aantal bedrijfsvestigingen",
- },
- {
-   "Variable": "A_BED_A",
-   "Meaning": "Aantal bedrijven landbouw, bosbouw, visserij",
- },
- {
-   "Variable": "A_BED_BF",
-   "Meaning": "Aantal bedrijven nijverheid, energie",
- },
- {
-   "Variable": "A_BED_GI",
-   "Meaning": "Aantal bedrijven handel en horeca",
- },
- {
-   "Variable": "A_BED_HJ",
-   "Meaning": "Aantal bedrijven Vervoer, informatie, communicatie",
- },
- {
-   "Variable": "A_BED_KL",
-   "Meaning": "Aantal bedrijven financie��l, onroerend goed",
- },
- {
-   "Variable": "A_BED_MN",
-   "Meaning": "Aantal bedrijven zakelijke dienstverlening",
- },
- {
-   "Variable": "A_BED_RU",
-   "Meaning": "Aantal bedrijven cultuur, recreatie, overige",
- },
- {
-   "Variable": "WONINGEN",
-   "Meaning": "Woningvoorraad",
- },
- {
-   "Variable": "WOZ",
-   "Meaning": "Gemiddelde   woningwaarde",
- },
- {
-   "Variable": "p_1gezw",
-   "Meaning": "Percentage   eengezinswoning",
- },
- {
-   "Variable": "p_mgezw",
-   "Meaning": "Percentage   meergezinswoning",
- },
- {
-   "Variable": "P_KOOPWON",
-   "Meaning": "Percentage   koopwoningen",
- },
- {
-   "Variable": "P_HUURWON",
-   "Meaning": "Percentage   huurwoningen",
- },
- {
-   "Variable": "P_WONV2000",
-   "Meaning": "Percentage bouwjaarklasse vanaf 2000",
- },
- {
-   "Variable": "P_WONT2000",
-   "Meaning": "Percentage bouwjaarklasse tot 2000",
- },
- {
-   "Variable": "P_HUKO_ONB",
-   "Meaning": "Percentage Woningen met eigendom onbekend",
- },
- {
-   "Variable": "G_GAS_TOT",
-   "Meaning": "Gemiddeld gasverbruik totaal",
-   "etc": "   "
- },
- {
-   "Variable": "G_GAS_APP",
-   "Meaning": "Gemiddeld gasverbruik appartement ",
- },
- {
-   "Variable": "G_GAS_TUS ",
-   "Meaning": "Gemiddeld gasverbruik tussenwoning  ",
- },
- {
-   "Variable": "G_GAS_HOEK",
-   "Meaning": "Gemiddeld gasverbruik hoekwoning      ",
- },
- {
-   "Variable": "G_GAS_21K",
-   "Meaning": "Gemiddeld gasverbruik 2 onder 1 kap woning      ",
- },
- {
-   "Variable": "G_GAS_VRY",
-   "Meaning": "Gemiddeld gasverbruik vrijstaande woning",
- },
- {
-   "Variable": "g_gas_hu",
-   "Meaning": "Gemiddeld gasverbruik huurwoning  ",
- },
- {
-   "Variable": "g_gas_ko",
-   "Meaning": "Gemiddeld gasverbruikkoopwoning  ",
- },
- {
-   "Variable": "P_STADVERW",
-   "Meaning": "Aandeel stadsverwarming   ",
- },
- {
-   "Variable": "G_ELEK_TOT",
-   "Meaning": "Gemiddeld elektriciteitsverbruik totaal",
- },
- {
-   "Variable": "G_ELEK_APP ",
-   "Meaning": "Gemiddeld elektriciteitsverbruik appartement",
- },
- {
-   "Variable": "G_ELEK_HOE ",
-   "Meaning": "elektriciteitsverbruik hoekwoning Gem elektriciteitsverbruik 2 onder",
- },
- {
-   "Variable": "G_ELEK_21K ",
-   "Meaning": "1 kap woning Gem elektriciteitsverbruik vrijstaande woning ",
- },
- {
-   "Variable": "G_ELEK_VRY",
-   "Meaning": "Gemiddeld elektriciteitsverbruik huurwoning Gemiddeld  ",
- },
- {
-   "Variable": "G_ELEK_TUS",
-   "Meaning": "Gemiddeld elektriciteitsverbruik tussenwoning Gemiddeld ",
- },
- {
-   "Variable": "g_ele_hu g_ele_ko",
-   "Meaning": "elektriciteitsverbruikkoopwoning",
- },
- {
-   "Variable": "AANT_INK2",
-   "Meaning": "Aantal inkomensontvangers",
- },
- {
-   "Variable": "INK_ONTV2",
-   "Meaning": "Gemiddeld inkomen per inkomensontvanger",
- },
- {
-   "Variable": "INK_INW2",
-   "Meaning": "Gemiddeld inkomen per inwoner",
- },
- {
-   "Variable": "P_LAAGINKP",
-   "Meaning": "Percentage personen met laagste inkomen",
- },
- {
-   "Variable": "P_HOOGINKP",
-   "Meaning": "Percentage personen met hoogste inkomen",
- },
- {
-   "Variable": "P_LAAGINKH",
-   "Meaning": "Percentage huishoudens met laagste inkomen",
- },
- {
-   "Variable": "P_HOOGINKH",
-   "Meaning": "Percentage huishoudens met hoogste inkomen",
- },
- {
-   "Variable": "P_LIK_HH",
-   "Meaning": "percentage huishoudens met een laag inkomen",
- },
- {
-   "Variable": "P_SOCMINH",
-   "Meaning": "Perc huishoudens onder of rond sociaal minimum",
- },
- {
-   "Variable": "P_ACTIEF",
-   "Meaning": "percentage actieven",
- },
- {
-   "Variable": "WWB_UITTOT",
-   "Meaning": "Algemene bijstandsuitkeringen totaal",
- },
- {
-   "Variable": "a_soz_ow",
-   "Meaning": "Aantal personen met een AOW-uitkering totaal",
- },
- {
-   "Variable": "AO_UIT_TOT",
-   "Meaning": "AO uitkeringen totaal",
- },
- {
-   "Variable": "WW_UIT_TOT",
-   "Meaning": "WW uitkeringen totaal",
- },
- {
-   "Variable": "AUTO_TOT",
-   "Meaning": "Personenauto s totaal",
- },
- {
-   "Variable": "AUTO_HH AUTO_LAND",
-   "Meaning": "Personenauto s per huishouden Personenauto s per km2",
- },
- {
-   "Variable": "BEDR_AUTO",
-   "Meaning": "Bedrijfsmotorvoertuigen   totaal",
- },
- {
-   "Variable": "MOTOR_2W",
-   "Meaning": "Motortweewielers totaal",
- },
- {
-   "Variable": "A_LFTJ6J",
-   "Meaning": "Aantal personenauto���s jonger dan 6 jaar",
- },
- {
-   "Variable": "A_LFTO6J",
-   "Meaning": "Aantal personenauto���s 6 jaar en ouder",
- },
- {
-   "Variable": "A_BST_B",
-   "Meaning": "Aantal personenauto���s met brandstof benzine",
- },
- {
-   "Variable": "A_BST_NB",
-   "Meaning": "Aantal personenauto���s met overige brandstof",
- },
- {
-   "Variable": "OPP_TOT",
-   "Meaning": "Oppervlakte totaal in ha",
- },
- {
-   "Variable": "OPP_LAND",
-   "Meaning": "Oppervlakte land in ha",
- },
- {
-   "Variable": "OPP_WATER",
-   "Meaning": "Oppervlakte water in ha",
- },
- {
-   "Variable": "AF_ARTSPR",
-   "Meaning": "Huisartsenpraktijk gemiddelde afstand in km",
- },
- {
-   "Variable": "AV1_ARTSPR",
-   "Meaning": "Huisartsenpraktijk gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_ARTSPR",
-   "Meaning": "Huisartsenpraktijk gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_ARTSPR",
-   "Meaning": "Huisartsenpraktijk gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AF_APOTH",
-   "Meaning": "Apotheek gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_ZIEK_I",
-   "Meaning": "Ziekenhuis incl buitenpolikliniek gem afst in km",
- },
- {
-   "Variable": "AV5_ZIEK_I",
-   "Meaning": "Ziekenhuis incl buitenpoli gem aantal binnen 5 km",
- },
- {
-   "Variable": "AV10ZIEK_I",
-   "Meaning": "Ziekenhuis incl buitenpoli gem aantal binnen 10 km",
- },
- {
-   "Variable": "AV20ZIEK_I",
-   "Meaning": "Ziekenhuis incl buitenpoli gem aantal binnen 20 km",
- },
- {
-   "Variable": "AF_ZIEK_E",
-   "Meaning": "Ziekenhuis excl buitenpolikliniek gem afst in km",
- },
- {
-   "Variable": "AV5_ZIEK_E",
-   "Meaning": "Ziekenhuis excl buitenpoli gem aantal binnen 5 km",
- },
- {
-   "Variable": "AV10ZIEK_E",
-   "Meaning": "Ziekenhuis excl buitenpoli gem aantal binnen 10 km",
- },
- {
-   "Variable": "AV20ZIEK_E",
-   "Meaning": "Ziekenhuis excl buitenpoli gem aantal binnen 20 km",
- },
- {
-   "Variable": "AF_SUPERM",
-   "Meaning": "Grote supermarkt gemiddelde afstand in km",
- },
- {
-   "Variable": "AV1_SUPERM",
-   "Meaning": "Grote supermarkt gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_SUPERM",
-   "Meaning": "Grote supermarkt gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_SUPERM",
-   "Meaning": "Grote supermarkt gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AF_DAGLMD",
-   "Meaning": "Winkels ov. dagelijkse levensm. gem afst in km",
- },
- {
-   "Variable": "AV1_DAGLMD",
-   "Meaning": "Winkels ov. dagel. levensm. gem aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_DAGLMD",
-   "Meaning": "Winkels ov. dagel. levensm. gem aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_DAGLMD",
-   "Meaning": "Winkels ov. dagel. levensm. gem aantal binnen 5 km",
- },
- {
-   "Variable": "AF_WARENH",
-   "Meaning": "Warenhuis gemiddelde afstand in km",
- },
- {
-   "Variable": "AV5_WARENH",
-   "Meaning": "Warenhuis gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AV10WARENH",
-   "Meaning": "Warenhuis gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AV20WARENH",
-   "Meaning": "Warenhuis gemiddeld aantal binnen 20 km",
- },
- {
-   "Variable": "AF_CAFE",
-   "Meaning": "Caf�� gemiddelde afstand in km",
- },
- {
-   "Variable": "AV1_CAFE",
-   "Meaning": "Caf�� gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_CAFE",
-   "Meaning": "Caf�� gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_CAFE",
-   "Meaning": "Caf�� gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AF_CAFTAR",
-   "Meaning": "Cafetaria gemiddelde afstand in km",
- },
- {
-   "Variable": "AV1_CAFTAR",
-   "Meaning": "Cafetaria gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_CAFTAR",
-   "Meaning": "Cafetaria gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_CAFTAR",
-   "Meaning": "Cafetaria gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AF_RESTAU",
-   "Meaning": "Restaurant gemiddelde afstand in km",
- },
- {
-   "Variable": "AV1_RESTAU",
-   "Meaning": "Restaurant gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_RESTAU",
-   "Meaning": "Restaurant gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_RESTAU",
-   "Meaning": "Restaurant gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AF_HOTEL",
-   "Meaning": "Hotel gemiddelde afstand in km",
- },
- {
-   "Variable": "AV5_HOTEL",
-   "Meaning": "Hotel gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AV10_HOTEL",
-   "Meaning": "Hotel gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AV20_HOTEL",
-   "Meaning": "Hotel gemiddeld aantal binnen 20 km",
- },
- {
-   "Variable": "AF_KDV",
-   "Meaning": "Kinderdagverblijf gemiddelde afstand in km",
- },
- {
-   "Variable": "AV1_KDV",
-   "Meaning": "Kinderdagverblijf gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_KDV",
-   "Meaning": "Kinderdagverblijf gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_KDV",
-   "Meaning": "Kinderdagverblijf gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AF_BSO",
-   "Meaning": "Buitenschoolse opvang gem afstand in km",
- },
- {
-   "Variable": "AV1_BSO",
-   "Meaning": "Buitenschoolse opvang gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_BSO",
-   "Meaning": "Buitenschoolse opvang gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_BSO",
-   "Meaning": "Buitenschoolse opvang gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AF_ONDBAS",
-   "Meaning": "Basisonderwijs gemiddelde afstand in km",
- },
- {
-   "Variable": "AV1_ONDBAS",
-   "Meaning": "Basisonderwijs aantal binnen 1 km",
- },
- {
-   "Variable": "AV3_ONDBAS",
-   "Meaning": "Basisonderwijs aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_ONDBAS",
-   "Meaning": "Basisonderwijs aantal binnen 5 km",
- },
- {
-   "Variable": "AF_ONDVRT",
-   "Meaning": "Voortgezet onderwijs gem afstand in km",
- },
- {
-   "Variable": "AV3_ONDVRT",
-   "Meaning": "Voortgezet onderwijs gemiddeld aantal binnen 1 km",
- },
- {
-   "Variable": "AV5_ONDVRT",
-   "Meaning": "Voortgezet onderwijs gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV10ONDVRT",
-   "Meaning": "Voortgezet onderwijs gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AF_ONDVMB",
-   "Meaning": "Vmbo gemiddelde afstand in km",
- },
- {
-   "Variable": "AV3_ONDVMB",
-   "Meaning": "Vmbo gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_ONDVMB",
-   "Meaning": "Vmbo gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AV10ONDVMB",
-   "Meaning": "Vmbo gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AF_ONDHV",
-   "Meaning": "Havo vwo gemiddelde afstand in km",
- },
- {
-   "Variable": "AV3_ONDHV",
-   "Meaning": "Havo vwo gemiddeld aantal binnen 3 km",
- },
- {
-   "Variable": "AV5_ONDHV",
-   "Meaning": "Havo vwo gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AV10_ONDHV",
-   "Meaning": "Havo vwo gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AF_OPRITH",
-   "Meaning": "Oprit hoofdverkeersweg gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_TREINST",
-   "Meaning": "Treinstation gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_OVERST",
-   "Meaning": "Overstapstation gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_BIBLIO",
-   "Meaning": "Bibliotheek gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_ZWEMB",
-   "Meaning": "Zwembad gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_IJSBAAN",
-   "Meaning": "Kunstijsbaan gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_PODIUM",
-   "Meaning": "Theater gemiddelde afstand in km",
- },
- {
-   "Variable": "AV5_PODIUM",
-   "Meaning": "Theater gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AV10PODIUM",
-   "Meaning": "Theater gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AV20PODIUM",
-   "Meaning": "Theater gemiddeld aantal binnen 20 km",
- },
- {
-   "Variable": "AF_BIOS",
-   "Meaning": "Bioscoop gemiddelde afstand in km",
- },
- {
-   "Variable": "AV5_BIOS",
-   "Meaning": "Bioscoop gemiddeld aantal binnen 5 km",
- },
- {
-   "Variable": "AV10_BIOS",
-   "Meaning": "Bioscoop gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AV20_BIOS",
-   "Meaning": "Bioscoop gemiddeld aantal binnen 20 km",
- },
- {
-   "Variable": "AF_SAUNA",
-   "Meaning": "Sauna gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_ZONBNK",
-   "Meaning": "Zonnebank gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_ATTRAC",
-   "Meaning": "Attractiepark gemiddelde afstand in km",
- },
- {
-   "Variable": "AV10ATTRAC",
-   "Meaning": "Attractiepark gemiddeld aantal binnen 10 km",
- },
- {
-   "Variable": "AV20ATTRAC",
-   "Meaning": "Attractiepark gemiddeld aantal binnen 20 km",
- },
- {
-   "Variable": "AV50ATTRAC",
-   "Meaning": "Attractiepark gemiddeld aantal binnen 50 km",
- },
- {
-   "Variable": "AF_POP",
-   "Meaning": "Poppodium gemiddelde afstand in km",
- },
- {
-   "Variable": "AF_BRANDW",
-   "Meaning": "Brandweerkazerne gemiddelde afstand in km",
- }
-]
+{
+  "rows": [
+    {
+      "variable": "P_25_44_JR",
+      "meaning": "Percentage personen 25 tot 45 jaar"
+    },
+    {
+      "variable": "P_45_64_JR",
+      "meaning": "Percentage personen 45 tot 65 jaar"
+    },
+    {
+      "variable": "P_65_EO_JR",
+      "meaning": "Percentage personen 65 jaar en ouder"
+    },
+    {
+      "variable": "P_ONGEHUWD",
+      "meaning": "Percentage ongehuwd"
+    },
+    {
+      "variable": "P_GEHUWD",
+      "meaning": "Percentage gehuwd"
+    },
+    {
+      "variable": "P_GESCHEID",
+      "meaning": "Percentage gescheid"
+    },
+    {
+      "variable": "P_VERWEDUW",
+      "meaning": "Percentage verweduwd"
+    },
+    {
+      "variable": "GEBOO_TOT",
+      "meaning": "Geboorte totaal"
+    },
+    {
+      "variable": "P_GEBOO",
+      "meaning": "Geboorte relatief"
+    },
+    {
+      "variable": "STERFT_TOT",
+      "meaning": "Sterfte totaal"
+    },
+    {
+      "variable": "P_STERFT BEV_DICHTH",
+      "meaning": "Sterfte relatief Bevolkingsdichtheid inwoners per km2"
+    },
+    {
+      "variable": "AANTAL_HH",
+      "meaning": "Aantal huishoudens"
+    },
+    {
+      "variable": "P_EENP_HH",
+      "meaning": "Percentage   eenpersoonshuishoudens"
+    },
+    {
+      "variable": "P_HH_Z_K",
+      "meaning": "Percentage huishoudens zonder kinderen"
+    },
+    {
+      "variable": "P_HH_M_K",
+      "meaning": "Percentage huishoudens met kinderen"
+    },
+    {
+      "variable": "GEM_HH_GR",
+      "meaning": "Gemiddelde   huishoudensgrootte"
+    },
+    {
+      "variable": "P_WEST_AL",
+      "meaning": "Percentage westerse allochtonen"
+    },
+    {
+      "variable": "P_N_W_AL",
+      "meaning": "Percentage niet westerse allochtonen"
+    },
+    {
+      "variable": "P_MAROKKO",
+      "meaning": "Percentage uit Marokko"
+    },
+    {
+      "variable": "P_ANT_ARU",
+      "meaning": "Percentage uit Nederlandse Antillen en Aruba"
+    },
+    {
+      "variable": "P_SURINAM",
+      "meaning": "Percentage uit Suriname"
+    },
+    {
+      "variable": "P_TURKIJE",
+      "meaning": "Percentage uit Turkije"
+    },
+    {
+      "variable": "P_OVER_NW",
+      "meaning": "Percentage overige niet westerse allochtonen"
+    },
+    {
+      "variable": "A_BEDV",
+      "meaning": "Aantal bedrijfsvestigingen"
+    },
+    {
+      "variable": "A_BED_A",
+      "meaning": "Aantal bedrijven landbouw, bosbouw, visserij"
+    },
+    {
+      "variable": "A_BED_BF",
+      "meaning": "Aantal bedrijven nijverheid, energie"
+    },
+    {
+      "variable": "A_BED_GI",
+      "meaning": "Aantal bedrijven handel en horeca"
+    },
+    {
+      "variable": "A_BED_HJ",
+      "meaning": "Aantal bedrijven Vervoer, informatie, communicatie"
+    },
+    {
+      "variable": "A_BED_KL",
+      "meaning": "Aantal bedrijven financie��l, onroerend goed"
+    },
+    {
+      "variable": "A_BED_MN",
+      "meaning": "Aantal bedrijven zakelijke dienstverlening"
+    },
+    {
+      "variable": "A_BED_RU",
+      "meaning": "Aantal bedrijven cultuur, recreatie, overige"
+    },
+    {
+      "variable": "WONINGEN",
+      "meaning": "Woningvoorraad"
+    },
+    {
+      "variable": "WOZ",
+      "meaning": "Gemiddelde   woningwaarde"
+    },
+    {
+      "variable": "p_1gezw",
+      "meaning": "Percentage   eengezinswoning"
+    },
+    {
+      "variable": "p_mgezw",
+      "meaning": "Percentage   meergezinswoning"
+    },
+    {
+      "variable": "P_KOOPWON",
+      "meaning": "Percentage   koopwoningen"
+    },
+    {
+      "variable": "P_HUURWON",
+      "meaning": "Percentage   huurwoningen"
+    },
+    {
+      "variable": "P_WONV2000",
+      "meaning": "Percentage bouwjaarklasse vanaf 2000"
+    },
+    {
+      "variable": "P_WONT2000",
+      "meaning": "Percentage bouwjaarklasse tot 2000"
+    },
+    {
+      "variable": "P_HUKO_ONB",
+      "meaning": "Percentage Woningen met eigendom onbekend"
+    },
+    {
+      "variable": "G_GAS_TOT",
+      "meaning": "Gemiddeld gasverbruik totaal",
+      "etc": "   "
+    },
+    {
+      "variable": "G_GAS_APP",
+      "meaning": "Gemiddeld gasverbruik appartement "
+    },
+    {
+      "variable": "G_GAS_TUS ",
+      "meaning": "Gemiddeld gasverbruik tussenwoning  "
+    },
+    {
+      "variable": "G_GAS_HOEK",
+      "meaning": "Gemiddeld gasverbruik hoekwoning      "
+    },
+    {
+      "variable": "G_GAS_21K",
+      "meaning": "Gemiddeld gasverbruik 2 onder 1 kap woning      "
+    },
+    {
+      "variable": "G_GAS_VRY",
+      "meaning": "Gemiddeld gasverbruik vrijstaande woning"
+    },
+    {
+      "variable": "g_gas_hu",
+      "meaning": "Gemiddeld gasverbruik huurwoning  "
+    },
+    {
+      "variable": "g_gas_ko",
+      "meaning": "Gemiddeld gasverbruikkoopwoning  "
+    },
+    {
+      "variable": "P_STADVERW",
+      "meaning": "Aandeel stadsverwarming   "
+    },
+    {
+      "variable": "G_ELEK_TOT",
+      "meaning": "Gemiddeld elektriciteitsverbruik totaal"
+    },
+    {
+      "variable": "G_ELEK_APP ",
+      "meaning": "Gemiddeld elektriciteitsverbruik appartement"
+    },
+    {
+      "variable": "G_ELEK_HOE ",
+      "meaning": "elektriciteitsverbruik hoekwoning Gem elektriciteitsverbruik 2 onder"
+    },
+    {
+      "variable": "G_ELEK_21K ",
+      "meaning": "1 kap woning Gem elektriciteitsverbruik vrijstaande woning "
+    },
+    {
+      "variable": "G_ELEK_VRY",
+      "meaning": "Gemiddeld elektriciteitsverbruik huurwoning Gemiddeld  "
+    },
+    {
+      "variable": "G_ELEK_TUS",
+      "meaning": "Gemiddeld elektriciteitsverbruik tussenwoning Gemiddeld "
+    },
+    {
+      "variable": "g_ele_hu g_ele_ko",
+      "meaning": "elektriciteitsverbruikkoopwoning"
+    },
+    {
+      "variable": "AANT_INK2",
+      "meaning": "Aantal inkomensontvangers"
+    },
+    {
+      "variable": "INK_ONTV2",
+      "meaning": "Gemiddeld inkomen per inkomensontvanger"
+    },
+    {
+      "variable": "INK_INW2",
+      "meaning": "Gemiddeld inkomen per inwoner"
+    },
+    {
+      "variable": "P_LAAGINKP",
+      "meaning": "Percentage personen met laagste inkomen"
+    },
+    {
+      "variable": "P_HOOGINKP",
+      "meaning": "Percentage personen met hoogste inkomen"
+    },
+    {
+      "variable": "P_LAAGINKH",
+      "meaning": "Percentage huishoudens met laagste inkomen"
+    },
+    {
+      "variable": "P_HOOGINKH",
+      "meaning": "Percentage huishoudens met hoogste inkomen"
+    },
+    {
+      "variable": "P_LIK_HH",
+      "meaning": "percentage huishoudens met een laag inkomen"
+    },
+    {
+      "variable": "P_SOCMINH",
+      "meaning": "Perc huishoudens onder of rond sociaal minimum"
+    },
+    {
+      "variable": "P_ACTIEF",
+      "meaning": "percentage actieven"
+    },
+    {
+      "variable": "WWB_UITTOT",
+      "meaning": "Algemene bijstandsuitkeringen totaal"
+    },
+    {
+      "variable": "a_soz_ow",
+      "meaning": "Aantal personen met een AOW-uitkering totaal"
+    },
+    {
+      "variable": "AO_UIT_TOT",
+      "meaning": "AO uitkeringen totaal"
+    },
+    {
+      "variable": "WW_UIT_TOT",
+      "meaning": "WW uitkeringen totaal"
+    },
+    {
+      "variable": "AUTO_TOT",
+      "meaning": "Personenauto s totaal"
+    },
+    {
+      "variable": "AUTO_HH AUTO_LAND",
+      "meaning": "Personenauto s per huishouden Personenauto s per km2"
+    },
+    {
+      "variable": "BEDR_AUTO",
+      "meaning": "Bedrijfsmotorvoertuigen   totaal"
+    },
+    {
+      "variable": "MOTOR_2W",
+      "meaning": "Motortweewielers totaal"
+    },
+    {
+      "variable": "A_LFTJ6J",
+      "meaning": "Aantal personenauto���s jonger dan 6 jaar"
+    },
+    {
+      "variable": "A_LFTO6J",
+      "meaning": "Aantal personenauto���s 6 jaar en ouder"
+    },
+    {
+      "variable": "A_BST_B",
+      "meaning": "Aantal personenauto���s met brandstof benzine"
+    },
+    {
+      "variable": "A_BST_NB",
+      "meaning": "Aantal personenauto���s met overige brandstof"
+    },
+    {
+      "variable": "OPP_TOT",
+      "meaning": "Oppervlakte totaal in ha"
+    },
+    {
+      "variable": "OPP_LAND",
+      "meaning": "Oppervlakte land in ha"
+    },
+    {
+      "variable": "OPP_WATER",
+      "meaning": "Oppervlakte water in ha"
+    },
+    {
+      "variable": "AF_ARTSPR",
+      "meaning": "Huisartsenpraktijk gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV1_ARTSPR",
+      "meaning": "Huisartsenpraktijk gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_ARTSPR",
+      "meaning": "Huisartsenpraktijk gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_ARTSPR",
+      "meaning": "Huisartsenpraktijk gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_APOTH",
+      "meaning": "Apotheek gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_ZIEK_I",
+      "meaning": "Ziekenhuis incl buitenpolikliniek gem afst in km"
+    },
+    {
+      "variable": "AV5_ZIEK_I",
+      "meaning": "Ziekenhuis incl buitenpoli gem aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10ZIEK_I",
+      "meaning": "Ziekenhuis incl buitenpoli gem aantal binnen 10 km"
+    },
+    {
+      "variable": "AV20ZIEK_I",
+      "meaning": "Ziekenhuis incl buitenpoli gem aantal binnen 20 km"
+    },
+    {
+      "variable": "AF_ZIEK_E",
+      "meaning": "Ziekenhuis excl buitenpolikliniek gem afst in km"
+    },
+    {
+      "variable": "AV5_ZIEK_E",
+      "meaning": "Ziekenhuis excl buitenpoli gem aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10ZIEK_E",
+      "meaning": "Ziekenhuis excl buitenpoli gem aantal binnen 10 km"
+    },
+    {
+      "variable": "AV20ZIEK_E",
+      "meaning": "Ziekenhuis excl buitenpoli gem aantal binnen 20 km"
+    },
+    {
+      "variable": "AF_SUPERM",
+      "meaning": "Grote supermarkt gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV1_SUPERM",
+      "meaning": "Grote supermarkt gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_SUPERM",
+      "meaning": "Grote supermarkt gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_SUPERM",
+      "meaning": "Grote supermarkt gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_DAGLMD",
+      "meaning": "Winkels ov. dagelijkse levensm. gem afst in km"
+    },
+    {
+      "variable": "AV1_DAGLMD",
+      "meaning": "Winkels ov. dagel. levensm. gem aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_DAGLMD",
+      "meaning": "Winkels ov. dagel. levensm. gem aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_DAGLMD",
+      "meaning": "Winkels ov. dagel. levensm. gem aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_WARENH",
+      "meaning": "Warenhuis gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV5_WARENH",
+      "meaning": "Warenhuis gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10WARENH",
+      "meaning": "Warenhuis gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AV20WARENH",
+      "meaning": "Warenhuis gemiddeld aantal binnen 20 km"
+    },
+    {
+      "variable": "AF_CAFE",
+      "meaning": "Caf�� gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV1_CAFE",
+      "meaning": "Caf�� gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_CAFE",
+      "meaning": "Caf�� gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_CAFE",
+      "meaning": "Caf�� gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_CAFTAR",
+      "meaning": "Cafetaria gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV1_CAFTAR",
+      "meaning": "Cafetaria gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_CAFTAR",
+      "meaning": "Cafetaria gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_CAFTAR",
+      "meaning": "Cafetaria gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_RESTAU",
+      "meaning": "Restaurant gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV1_RESTAU",
+      "meaning": "Restaurant gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_RESTAU",
+      "meaning": "Restaurant gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_RESTAU",
+      "meaning": "Restaurant gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_HOTEL",
+      "meaning": "Hotel gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV5_HOTEL",
+      "meaning": "Hotel gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10_HOTEL",
+      "meaning": "Hotel gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AV20_HOTEL",
+      "meaning": "Hotel gemiddeld aantal binnen 20 km"
+    },
+    {
+      "variable": "AF_KDV",
+      "meaning": "Kinderdagverblijf gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV1_KDV",
+      "meaning": "Kinderdagverblijf gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_KDV",
+      "meaning": "Kinderdagverblijf gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_KDV",
+      "meaning": "Kinderdagverblijf gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_BSO",
+      "meaning": "Buitenschoolse opvang gem afstand in km"
+    },
+    {
+      "variable": "AV1_BSO",
+      "meaning": "Buitenschoolse opvang gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_BSO",
+      "meaning": "Buitenschoolse opvang gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_BSO",
+      "meaning": "Buitenschoolse opvang gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_ONDBAS",
+      "meaning": "Basisonderwijs gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV1_ONDBAS",
+      "meaning": "Basisonderwijs aantal binnen 1 km"
+    },
+    {
+      "variable": "AV3_ONDBAS",
+      "meaning": "Basisonderwijs aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_ONDBAS",
+      "meaning": "Basisonderwijs aantal binnen 5 km"
+    },
+    {
+      "variable": "AF_ONDVRT",
+      "meaning": "Voortgezet onderwijs gem afstand in km"
+    },
+    {
+      "variable": "AV3_ONDVRT",
+      "meaning": "Voortgezet onderwijs gemiddeld aantal binnen 1 km"
+    },
+    {
+      "variable": "AV5_ONDVRT",
+      "meaning": "Voortgezet onderwijs gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV10ONDVRT",
+      "meaning": "Voortgezet onderwijs gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AF_ONDVMB",
+      "meaning": "Vmbo gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV3_ONDVMB",
+      "meaning": "Vmbo gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_ONDVMB",
+      "meaning": "Vmbo gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10ONDVMB",
+      "meaning": "Vmbo gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AF_ONDHV",
+      "meaning": "Havo vwo gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV3_ONDHV",
+      "meaning": "Havo vwo gemiddeld aantal binnen 3 km"
+    },
+    {
+      "variable": "AV5_ONDHV",
+      "meaning": "Havo vwo gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10_ONDHV",
+      "meaning": "Havo vwo gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AF_OPRITH",
+      "meaning": "Oprit hoofdverkeersweg gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_TREINST",
+      "meaning": "Treinstation gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_OVERST",
+      "meaning": "Overstapstation gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_BIBLIO",
+      "meaning": "Bibliotheek gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_ZWEMB",
+      "meaning": "Zwembad gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_IJSBAAN",
+      "meaning": "Kunstijsbaan gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_PODIUM",
+      "meaning": "Theater gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV5_PODIUM",
+      "meaning": "Theater gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10PODIUM",
+      "meaning": "Theater gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AV20PODIUM",
+      "meaning": "Theater gemiddeld aantal binnen 20 km"
+    },
+    {
+      "variable": "AF_BIOS",
+      "meaning": "Bioscoop gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV5_BIOS",
+      "meaning": "Bioscoop gemiddeld aantal binnen 5 km"
+    },
+    {
+      "variable": "AV10_BIOS",
+      "meaning": "Bioscoop gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AV20_BIOS",
+      "meaning": "Bioscoop gemiddeld aantal binnen 20 km"
+    },
+    {
+      "variable": "AF_SAUNA",
+      "meaning": "Sauna gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_ZONBNK",
+      "meaning": "Zonnebank gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_ATTRAC",
+      "meaning": "Attractiepark gemiddelde afstand in km"
+    },
+    {
+      "variable": "AV10ATTRAC",
+      "meaning": "Attractiepark gemiddeld aantal binnen 10 km"
+    },
+    {
+      "variable": "AV20ATTRAC",
+      "meaning": "Attractiepark gemiddeld aantal binnen 20 km"
+    },
+    {
+      "variable": "AV50ATTRAC",
+      "meaning": "Attractiepark gemiddeld aantal binnen 50 km"
+    },
+    {
+      "variable": "AF_POP",
+      "meaning": "Poppodium gemiddelde afstand in km"
+    },
+    {
+      "variable": "AF_BRANDW",
+      "meaning": "Brandweerkazerne gemiddelde afstand in km"
+    }
+  ]
+}
